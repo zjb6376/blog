@@ -1,0 +1,1 @@
+## JetCache之LinkedHashMapCache自定义缓存功能
